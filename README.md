@@ -1,7 +1,7 @@
 for educational purposes only
 
 
-Features
+Features:
 Discord Info
 
 Token
