@@ -1,0 +1,42 @@
+[admin.py:29] - 2024-02-08 15:43:35,034 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:559] - 2024-02-08 15:43:35,034 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2024-02-08 15:43:35,084 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Program Files\\Python312\\pythonw.exe', 'C:\\Users\\super\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2024-02-08 15:43:35,084 - INFO - Running command 'C:\\Program Files\\Python312\\pythonw.exe' - 'C:\\Users\\super\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2024-02-08 15:43:37,874 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,075 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,075 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,075 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,075 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,075 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,075 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,075 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2024-02-08 15:43:38,084 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1052] - 2024-02-08 15:45:58,664 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2024-02-08 15:45:59,734 - DEBUG - https://discord.com:443 "GET /api/webhooks/1205161415720046632/KX40HNlEWhQUd5Sb4iWaMBmRfsacFvBg25Vy_uak00x_8lUcc8zBKzzEDOuDh-MWggxm HTTP/1.1" 200 None
+[connectionpool.py:1052] - 2024-02-08 15:46:03,989 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2024-02-08 15:46:04,784 - DEBUG - https://discord.com:443 "GET /api/webhooks/1205161415720046632/KX40HNlEWhQUd5Sb4iWaMBmRfsacFvBg25Vy_uak00x_8lUcc8zBKzzEDOuDh-MWggxm HTTP/1.1" 200 None
+[connectionpool.py:1052] - 2024-02-08 15:46:23,514 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2024-02-08 15:46:24,425 - DEBUG - https://discord.com:443 "GET /api/webhooks/1205161418102538291/ZR09n-FaR8kpFzkN4rDCETMcPGFFTfG9LXhPBcYz91hNOmqAGurYoaihchO1joeHlJxH HTTP/1.1" 200 None
+[builder.pyw:420] - 2024-02-08 15:46:57,062 - INFO - Retrieved filename: builder
+[builder.pyw:386] - 2024-02-08 15:46:57,062 - INFO - Changed filetype: .py
+[builder.pyw:440] - 2024-02-08 15:46:57,078 - INFO - Successfully changed config
+[builder.pyw:420] - 2024-02-08 15:46:59,939 - INFO - Retrieved filename: builder
+[builder.pyw:386] - 2024-02-08 15:46:59,939 - INFO - Changed filetype: .py
+[builder.pyw:440] - 2024-02-08 15:46:59,940 - INFO - Successfully changed config
+[admin.py:92] - 2024-02-08 15:48:33,453 - INFO - Process handle <PyHANDLE:1444> returned code 0
